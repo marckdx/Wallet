@@ -11,12 +11,14 @@ Wallet is going to be a software for wallet management, more specifically the fo
 
 ## Quick links
 
-* [Technologies](#technologies-and-concepts)
+* [Technologies](#important-to-know)
 * [Contributing](#contributing)
 * [Roadmap](#roadmap)
 * [License](#license)
 
-## Technologies and Concepts
+## Important to know
+
+The are some of the concepts and technologies I am currently using on this project, at least the ones that are the most important on my point of view.
 
 * [AutoMapper](https://automapper.org/)
 * [EntityFramework Core](https://docs.microsoft.com/en-us/ef/core/) 
