@@ -29,7 +29,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-[get@brokenegg.io](mailto:get@brokenegg.io)
+[marco@symatter.com](mailto:marco@symatter.com)
 
 ## Roadmap
 
